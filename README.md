@@ -12,3 +12,4 @@ Aku adalah seseorang yang suka mengeksplorasi kreativitas baik lewat coding maup
 🧠 Interests: teknologi, desain, fotografi, minimalism, dan storytelling.
 📍 Location: Jakarta
 💬 Ask me about: fotografi, web dev dasar, gear kamera, workflow editing, atau apa saja!
+
