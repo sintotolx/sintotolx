@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi there, I’m Hana Harika
+🎨 Developer • 📸 Photographer • 🌍 Curious Human
 
-<!--
-**sintotolx/sintotolx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub-ku!
+Aku adalah seseorang yang suka mengeksplorasi kreativitas baik lewat coding maupun lewat kamera. Bagiku, teknologi dan seni adalah dua hal yang saling melengkapi — satu membangun solusi, satu lagi menangkap cerita.
 
-Here are some ideas to get you started:
+✨ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on: beberapa proyek kecil untuk meningkatkan skill web development.
+🌱 Currently learning: JavaScript/TypeScript, UI Design, dan teknik fotografi low-light.
+🎯 Goal: membangun aplikasi yang bermanfaat dan sebuah portfolio fotografi yang bisa menceritakan perjalanan hidupku.
+🧠 Interests: teknologi, desain, fotografi, minimalism, dan storytelling.
+📍 Location: Jakarta
+💬 Ask me about: fotografi, web dev dasar, gear kamera, workflow editing, atau apa saja!
