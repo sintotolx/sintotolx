@@ -6,10 +6,10 @@ Aku adalah seseorang yang suka mengeksplorasi kreativitas baik lewat coding maup
 
 ✨ About Me
 
-🔭 Currently working on: beberapa proyek kecil untuk meningkatkan skill web development.
-🌱 Currently learning: JavaScript/TypeScript, UI Design, dan teknik fotografi low-light.
-🎯 Goal: membangun aplikasi yang bermanfaat dan sebuah portfolio fotografi yang bisa menceritakan perjalanan hidupku.
-🧠 Interests: teknologi, desain, fotografi, minimalism, dan storytelling.
-📍 Location: Jakarta
-💬 Ask me about: fotografi, web dev dasar, gear kamera, workflow editing, atau apa saja!
+- 🔭 Currently working on: beberapa proyek kecil untuk meningkatkan skill web development.
+- 🌱 Currently learning: JavaScript/TypeScript, UI Design, dan teknik fotografi low-light.
+- 🎯 Goal: membangun aplikasi yang bermanfaat dan sebuah portfolio fotografi yang bisa menceritakan perjalanan hidupku.
+- 🧠 Interests: teknologi, desain, fotografi, minimalism, dan storytelling.
+- 📍 Location: Jakarta
+- 💬 Ask me about: fotografi, web dev dasar, gear kamera, workflow editing, atau apa saja!
 
